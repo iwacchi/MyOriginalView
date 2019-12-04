@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Original View</string>
+    <string name="green_message">緑Buttonです</string>
+    <string name="red_message">赤Buttonです</string>
+</resources>
